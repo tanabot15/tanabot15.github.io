@@ -2,5 +2,6 @@
 # App 1: TradeMindLog
 # App 2: Gyakusan
 # App 3: Cardabase
+# App 4: Kikisake
 # ==========================================
 google.com, pub-1999992332232297, DIRECT, f08c47fec0942fa0
